@@ -59,3 +59,7 @@ I will divide the resources into different levels of learning and will also prov
 **Learning Tip 1 💁**: If you're are a beginnner and not able to answer interview questions, it's totally ok, you can look upto the solutions and solve similar types of problems on your own to practice those types of questions. You don't need to learn every concept, if you're not able to understand it, just skip it and move on to the next topic and review next day or try to get help from communities such as discord communities.
 
 **Interview Tip 1 💁**: While answering questions, try to explain in such a way that you're building your solution from base, if you know the answer, start with explaining how you reached to that answer, don't tell your answer, explain your thought process. Interviews wants to check your problem solving skills. Even if you give wrong answer but your thought process is correct, interviewer might be impressed.
+
+## Core Data Science Fundamentals 🚀
+
+According to [Harvard business School](https://online.hbs.edu/blog/post/data-science-skills), Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
