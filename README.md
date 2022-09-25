@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://zenml.io">
-    <img src="docs/book/assets/zenml_logo.png" alt="Logo" width="400">
+    <img src="assets/anternsvgsvg" alt="Logo" width="400">
   </a>
 
   <h3 align="center">One-stop solution for all your Data Science learning needs.</h3>
@@ -13,7 +13,7 @@
     <br />
     <div align="center">
       Join our <a href="https://discord.gg/t9uKG2m9" target="_blank">
-      <img width="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/306_Slack-512.png" alt="Slack"/>
+      <img width="25" src="assets/discordicon.png" alt="Slack"/>
     <b>Antern Community</b> </a> and ask your questions there. 
     </div>
   </p>
