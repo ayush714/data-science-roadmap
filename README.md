@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://zenml.io">
-    <img src="assets/anternsvgsvg" alt="Logo" width="400">
+    <img src="assets/anternsvg.svg" alt="Logo" width="400">
   </a>
 
   <h3 align="center">One-stop solution for all your Data Science learning needs.</h3>
