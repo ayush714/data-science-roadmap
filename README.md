@@ -74,6 +74,10 @@ I will divide the resources into different levels of learning and will also prov
 
 **Learning Tip 3 💁**: Data structures and algorithms is becoming one of the important topics in data science interview as well in giant companies, so it's important to learn it. Not only from the perspective of interviews, learning it and solving problems using dsa makes your problem solving skill and criticial thinking much more better than before and you will be having several tools in your toolbox to solve any problem. So I suggest to learn a particular topic and solve several questions on it, we will soon be adding several problems on this page to practice for data science.
 
+## Core Data Science Fundamentals 🚀
+
+According to [Harvard business School](https://online.hbs.edu/blog/post/data-science-skills), Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
+
 ### Frameworks 📚
 
 | Topics     | Resources & Links                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -100,6 +104,8 @@ I will divide the resources into different levels of learning and will also prov
 
 Note: People usually have question around learning Big data tools in initial phases of data science, I personally think, it's not necessary to learn big data tools in initial phases of data science, but if you're interested in learning it, you can learn it later on. There are different perspectives on this, i would like you to check out the answers from this [quora answer](https://www.quora.com/Should-a-data-scientist-know-big-data-hadoop).
 
-## Core Data Science Fundamentals 🚀
+## Intermediate Data Science 🚀
 
-According to [Harvard business School](https://online.hbs.edu/blog/post/data-science-skills), Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
+### Machine Learning 🤖
+
+![Machine Learning Roadmap](assets/machinelearningroadmap.png "Machine Learning Roadmap")
