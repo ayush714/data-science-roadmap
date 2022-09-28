@@ -91,6 +91,15 @@ I will divide the resources into different levels of learning and will also prov
 
 **Learning Tip 4 💁**: Learning frameworks is not a big deal, but the way you use frameworks to analyze data, visualize data and solve problems is what matters. So, I suggest to understand the CRUX of data analysis and data visualization and use the frameworks to build your solution. If you don't know the actual CRUX of data visualization, analysis, then there is no point in learning frameworks. and If you don't know how to work with data, then there is no point in learning ML.
 
+### SQL 📊
+
+| Topics         | Resources & Links                                                                                                                                                                                           |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SQL            | [SQL for Data Analysis Cathy Tanimura](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/) or [Learning SQL ](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/) |
+| Practicing SQL | [SQL Cookbook by By Anthony Molinaro](https://learning.oreilly.com/library/view/sql-cookbook/0596009763/), [DataLemur](https://datalemur.com/)                                                              |
+
+Note: People usually have question around learning Big data tools in initial phases of data science, I personally think, it's not necessary to learn big data tools in initial phases of data science, but if you're interested in learning it, you can learn it later on. There are different perspectives on this, i would like you to check out the answers from this [quora answer](https://www.quora.com/Should-a-data-scientist-know-big-data-hadoop).
+
 ## Core Data Science Fundamentals 🚀
 
 According to [Harvard business School](https://online.hbs.edu/blog/post/data-science-skills), Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
