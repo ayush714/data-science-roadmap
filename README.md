@@ -109,3 +109,12 @@ Note: People usually have question around learning Big data tools in initial pha
 ### Machine Learning 🤖
 
 ![Machine Learning Roadmap](assets/machinelearningroadmap.png "Machine Learning Roadmap")
+
+I have made a separate page for machine learning, you can check it out [here](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded). I also given my personal opinion on machine learning and how to learn it in the most efficient way possible in the form of a video, you can check it out [here](https://youtu.be/Av0oMG49FQE), which got more than 150k views.
+
+### Deep Learning 🧠
+
+| Topics                | Resources & Links                                                                                                                                                                                                                                                                                                                 |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Deep Learning courses | [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/), [CS230 Deep Learning](https://cs230.stanford.edu/), [Antern's ML002](https://www.youtube.com/playlist?list=PLITqwrDNk9XBmIDzfu3OZWg3dJW80lICf), [Deep Learning: CS 182](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
+| Deep Learning books   | [Deep Learning Book](https://www.deeplearningbook.org/), [Deep Learning with Python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/), [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/)                                 |
