@@ -31,14 +31,12 @@ It is a continuously evolving repository and I will keep adding more resources t
 
 I will divide the resources into different levels of learning and will also provide the best resources to learn each topic. The levels of learning are:
 
-- **Fundamentals before Data Science Stage 1**
+- **Getting ready to learn data science**
 - **Core Data Science Fundamentals**
 - **Intermediate Data Science**
 - **Advanced Data Science**
 - **Data Science Projects**
 - **Guide to Data Science Interviews**
-- **Recommended Timeline to follow this roadmap**
-- **Tips/Tricks for following the roadmap**
 
 ## Let's get ready to learn data science 🚀
 
@@ -112,9 +110,34 @@ Note: People usually have question around learning Big data tools in initial pha
 
 I have made a separate page for machine learning, you can check it out [here](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded). I also given my personal opinion on machine learning and how to learn it in the most efficient way possible in the form of a video, you can check it out [here](https://youtu.be/Av0oMG49FQE), which got more than 150k views.
 
-### Deep Learning 🧠
+### Deep Learning & Other domains🧠
 
-| Topics                | Resources & Links                                                                                                                                                                                                                                                                                                                 |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Deep Learning courses | [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/), [CS230 Deep Learning](https://cs230.stanford.edu/), [Antern's ML002](https://www.youtube.com/playlist?list=PLITqwrDNk9XBmIDzfu3OZWg3dJW80lICf), [Deep Learning: CS 182](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
-| Deep Learning books   | [Deep Learning Book](https://www.deeplearningbook.org/), [Deep Learning with Python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/), [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/)                                 |
+| Topics                      | Resources & Links                                                                                                                                                                                                                                                                                                                 |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Deep Learning courses       | [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/), [CS230 Deep Learning](https://cs230.stanford.edu/), [Antern's ML002](https://www.youtube.com/playlist?list=PLITqwrDNk9XBmIDzfu3OZWg3dJW80lICf), [Deep Learning: CS 182](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
+| Deep Learning books         | [Deep Learning Book](https://www.deeplearningbook.org/), [Deep Learning with Python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/), [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/)                                 |
+| Natural Language Processing | [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)                                                                                                                                                                                                                                  |
+| Computer Vision             | [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)                                                                                                                                                                                                                              |
+| Machine Learning Operations | [MadewithML](https://madewithml.com/courses/mlops/)                                                                                                                                                                                                                                                                               |
+
+### Data Science Projects 📈
+
+Before starting with any project, I would suggest you to go through [this video](https://youtu.be/c810QTD4XB8), which will help you to understand the process of building a data science project which can help you to land a job.
+
+We will be publishing a detailed blog and a video which walks you through a procedure to finding and building impactful data science project. It will be out soon, till then we suggest you to go through the following resources for inspiration:-
+
+- [Kaggle](https://www.kaggle.com/)
+- [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
+- [ZenFiles](https://github.com/zenml-io/zenfiles)
+
+### Guide to Data Science Interviews
+
+We will be publishing Interviews guide for every topic, but till then you can go through the following resources:-
+
+- [ Machine learning Interview questions](https://github.com/khangich/machine-learning-interview)
+- [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
+- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/pdf/2201.00650.pdf)
+- [Eugene Yan's Guides](https://eugeneyan.com/)
+- [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
+- [Data Scientist Interviews](https://applyingml.com/)
+- [Guides by Applying ML](https://applyingml.com/resources/)
