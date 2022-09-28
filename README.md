@@ -13,7 +13,7 @@
     <br />
     <div align="center">
       Join our <a href="https://discord.gg/t9uKG2m9" target="_blank">
-      <img width="25" src="assets/discordicon.png" alt="Slack"/>
+      <img width="25" src="assets/4373196_discord_logo_logos_icon.png" alt="discord"/>
     <b>Antern Community</b> </a> and ask your questions there. 
     </div>
   </p>
@@ -110,7 +110,7 @@ Note: People usually have question around learning Big data tools in initial pha
 
 I have made a separate page for machine learning, you can check it out [here](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded). I also given my personal opinion on machine learning and how to learn it in the most efficient way possible in the form of a video, you can check it out [here](https://youtu.be/Av0oMG49FQE), which got more than 150k views.
 
-### Deep Learning & Other domains🧠
+### Advance Data Science 🚀
 
 | Topics                      | Resources & Links                                                                                                                                                                                                                                                                                                                 |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -126,9 +126,15 @@ Before starting with any project, I would suggest you to go through [this video]
 
 We will be publishing a detailed blog and a video which walks you through a procedure to finding and building impactful data science project. It will be out soon, till then we suggest you to go through the following resources for inspiration:-
 
-- [Kaggle](https://www.kaggle.com/)
 - [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
 - [ZenFiles](https://github.com/zenml-io/zenfiles)
+
+Taking part in competitions is also a great way to learn and build your portfolio, you can check out the following platforms for competitions:-
+
+- DrivenData
+- Kaggle
+- Analytics Vidhya
+- Zindi
 
 ### Guide to Data Science Interviews
 
@@ -141,3 +147,14 @@ We will be publishing Interviews guide for every topic, but till then you can go
 - [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
 - [Data Scientist Interviews](https://applyingml.com/)
 - [Guides by Applying ML](https://applyingml.com/resources/)
+
+### Upcoming Topics 📚
+
+This repository is a work in progress, we will be adding more topics in the future, you can check out the following topics which we will be adding in the future:-
+
+- Detailed Interview Guides
+- Detailed Project Guides
+- Detailed Guide to Data Science Portfolio
+- Detailed Guide to Data Science Resume
+- Detailed Guide to Data Science Cover Letter
+- Other ways to get spotted by recruiters
