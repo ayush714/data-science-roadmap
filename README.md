@@ -144,7 +144,7 @@ We will be publishing Interviews guide for every topic, but till then you can go
 - [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/pdf/2201.00650.pdf)
 - [Eugene Yan's Guides](https://eugeneyan.com/)
-- [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
+- [Machine Learning System Design](https://github.com/eugeneyan/applied-ml)
 - [Data Scientist Interviews](https://applyingml.com/)
 - [Guides by Applying ML](https://applyingml.com/resources/)
 
