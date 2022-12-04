@@ -37,6 +37,7 @@ I will divide the resources into different levels of learning and will also prov
 - **Advanced Data Science**
 - **Data Science Projects**
 - **Guide to Data Science Interviews**
+- **Data Science Professional Certification**
 
 ## Let's get ready to learn data science 🚀
 
@@ -135,6 +136,14 @@ Taking part in competitions is also a great way to learn and build your portfoli
 - Kaggle
 - Analytics Vidhya
 - Zindi
+- CrowdANALYTIX
+- Innocentive
+- Codalab
+- DATASOURCE.AI
+- Bitgrit
+- Numerai
+- DataScienceChallenge
+- Machine Learning Contests
 
 ### Guide to Data Science Interviews
 
@@ -147,6 +156,14 @@ We will be publishing Interviews guide for every topic, but till then you can go
 - [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
 - [Data Scientist Interviews](https://applyingml.com/)
 - [Guides by Applying ML](https://applyingml.com/resources/)
+
+### Data Science Professional Certification
+
+-  IBM Data Science Professional Certification 
+-  Microsoft Certified Azure Data Scientist Associate Certification
+-  Google Professional Data Engineer Certification
+-  Amazon AWS Big Data Certification
+-  SAS Certified Data Scientist
 
 ### Upcoming Topics 📚
 
