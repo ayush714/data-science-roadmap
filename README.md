@@ -1,23 +1,3 @@
-<br />
-<div align="center">
-  <a href="https://zenml.io">
-    <img src="assets/anternsvg.svg" alt="Logo" width="400">
-  </a>
-
-  <h3 align="center">One-stop solution for all your Data Science learning needs.</h3>
-
-  <p align="center">
-    All in one place, the best resources to learn Data Science with comprehensive and detailed roadmaps.
-    <br />
-    <a href="https://antern.co/"><strong>Go to website</strong></a>
-    <br />
-    <div align="center">
-      Join our <a href="https://discord.gg/t9uKG2m9" target="_blank">
-      <img width="25" src="assets/4373196_discord_logo_logos_icon.png" alt="discord"/>
-    <b>Antern Community</b> </a> and ask your questions there. 
-    </div>
-  </p>
-</div>
 
 # Data Science Roadmap 🤖
 
@@ -176,6 +156,3 @@ This repository is a work in progress, we will be adding more topics in the futu
 - Detailed Guide to Data Science Cover Letter
 - Other ways to get spotted by recruiters
 
-### Contributions 🤝
-
-We are open to contributions, if you want to contribute to this repository, you can check out the [contributing guidelines](#). You can also contribute by sharing this repository with your friends and colleagues.
