@@ -1,23 +1,3 @@
-<br />
-<div align="center">
-  <a href="https://zenml.io">
-    <img src="assets/anternsvg.svg" alt="Logo" width="400">
-  </a>
-
-  <h3 align="center">One-stop solution for all your Data Science learning needs.</h3>
-
-  <p align="center">
-    All in one place, the best resources to learn Data Science with comprehensive and detailed roadmaps.
-    <br />
-    <a href="https://antern.co/"><strong>Go to website</strong></a>
-    <br />
-    <div align="center">
-      Join our <a href="https://discord.gg/t9uKG2m9" target="_blank">
-      <img width="25" src="assets/4373196_discord_logo_logos_icon.png" alt="discord"/>
-    <b>Antern Community</b> </a> and ask your questions there. 
-    </div>
-  </p>
-</div>
 
 # Data Science Roadmap 🤖
 
@@ -37,6 +17,7 @@ I will divide the resources into different levels of learning and will also prov
 - **Advanced Data Science**
 - **Data Science Projects**
 - **Guide to Data Science Interviews**
+- **Data Science Professional Certification**
 
 ## Let's get ready to learn data science 🚀
 
@@ -135,6 +116,14 @@ Taking part in competitions is also a great way to learn and build your portfoli
 - Kaggle
 - Analytics Vidhya
 - Zindi
+- CrowdANALYTIX
+- Innocentive
+- Codalab
+- DATASOURCE.AI
+- Bitgrit
+- Numerai
+- DataScienceChallenge
+- Machine Learning Contests
 
 ### Guide to Data Science Interviews
 
@@ -148,6 +137,14 @@ We will be publishing Interviews guide for every topic, but till then you can go
 - [Data Scientist Interviews](https://applyingml.com/)
 - [Guides by Applying ML](https://applyingml.com/resources/)
 
+### Data Science Professional Certification
+
+-  IBM Data Science Professional Certification 
+-  Microsoft Certified Azure Data Scientist Associate Certification
+-  Google Professional Data Engineer Certification
+-  Amazon AWS Big Data Certification
+-  SAS Certified Data Scientist
+
 ### Upcoming Topics 📚
 
 This repository is a work in progress, we will be adding more topics in the future, you can check out the following topics which we will be adding in the future:-
@@ -159,6 +156,3 @@ This repository is a work in progress, we will be adding more topics in the futu
 - Detailed Guide to Data Science Cover Letter
 - Other ways to get spotted by recruiters
 
-### Contributions 🤝
-
-We are open to contributions, if you want to contribute to this repository, you can check out the [contributing guidelines](#). You can also contribute by sharing this repository with your friends and colleagues.
